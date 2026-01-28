@@ -44,3 +44,36 @@ I have always dreamed of traveling to different parts of the world. The followin
 
 > "Every little thing is gonna be alright."  
 *— Bob Marley*
+
+---
+
+### Part 9: Code Fencing
+
+This snippet demonstrates the use of **abstract base classes (ABC)** in Python.  
+The `BaseClass` defines abstract methods `foo` and `bar` that must be implemented by any subclass.  
+The `ConcreteClass` inherits from `BaseClass` and provides concrete implementations for these methods.  
+Finally, an instance of `ConcreteClass` is created, showing how abstract methods are enforced.
+
+```python
+from abc import ABCMeta, abstractmethod
+
+
+class BaseClass(metaclass=ABCMeta):
+    @abstractmethod
+    def foo(self):
+        pass
+
+    @abstractmethod
+    def bar(self):
+        pass
+
+
+class ConcreteClass(BaseClass):
+    def foo(self):
+        pass
+
+    def bar(self):
+        pass
+
+
+instance = ConcreteClass()
