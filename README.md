@@ -1,5 +1,5 @@
 # practice-Dandu
-# Ajay Kumare Reddy Dandu
+# Ajay Kumar Reddy Dandu
 
 ###### Coldplay
 
