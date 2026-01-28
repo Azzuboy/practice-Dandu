@@ -7,8 +7,8 @@ Coldplay is my favorite band because their music blends **meaningful** lyrics wi
 
 
 -----
-# Favorite Musicians
+### Favorite Musicians
 
-Cold play
-Taylor Swift
-Hans Zimmer
+1. Cold play
+2. Taylor Swift
+3. Hans Zimmer
