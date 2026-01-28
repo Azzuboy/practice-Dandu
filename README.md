@@ -21,3 +21,16 @@ Coldplay is my favorite band because their music blends **meaningful** lyrics wi
 
 ----
 ![Read about my favorite place to visit](Maldives.jpg)
+
+---
+
+### Places I Want to Visit
+
+I have always dreamed of traveling to different parts of the world. The following table lists four places I would like to visit, along with why I chose them, how far they are from my home, and my estimated budget for a week-long trip.  
+
+| Place             | Reason to Visit                                      | Distance from Home | Budget (USD) |
+|------------------|-----------------------------------------------------|------------------|--------------|
+| Japan             | Explore the culture, food, and cherry blossoms     | 6,800 miles      | 2,500        |
+| Italy             | See historical landmarks and enjoy Italian cuisine | 4,500 miles      | 2,000        |
+| Australia         | Experience unique wildlife and beaches             | 10,000 miles     | 3,000        |
+| Iceland           | Witness waterfalls, glaciers, and Northern Lights | 4,000 miles      | 2,200        |
