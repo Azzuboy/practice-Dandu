@@ -12,3 +12,10 @@ Coldplay is my favorite band because their music blends **meaningful** lyrics wi
 1. Cold play
 2. Taylor Swift
 3. Hans Zimmer
+
+### Favorite Books
+ 
+ 1. A Game of Thrones
+ 2. Harry Potter
+ 3. A Clash of Kings
+ 
