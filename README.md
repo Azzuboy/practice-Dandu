@@ -19,3 +19,5 @@ Coldplay is my favorite band because their music blends **meaningful** lyrics wi
  - Harry Potter
  - A Clash of Kings
 
+----
+![Read about my favorite place to visit](Maldives.jpg)
