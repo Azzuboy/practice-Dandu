@@ -15,7 +15,7 @@ Coldplay is my favorite band because their music blends **meaningful** lyrics wi
 
 ### Favorite Books
  
- 1. A Game of Thrones
- 2. Harry Potter
- 3. A Clash of Kings
- 
+ - A Game of Thrones
+ - Harry Potter
+ - A Clash of Kings
+
