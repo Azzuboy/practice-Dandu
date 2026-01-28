@@ -34,3 +34,13 @@ I have always dreamed of traveling to different parts of the world. The followin
 | Italy             | See historical landmarks and enjoy Italian cuisine | 4,500 miles      | 2,000        |
 | Australia         | Experience unique wildlife and beaches             | 10,000 miles     | 3,000        |
 | Iceland           | Witness waterfalls, glaciers, and Northern Lights | 4,000 miles      | 2,200        |
+
+---
+
+### Favorite Quotes
+
+> "Lights will guide you home, and ignite your bones."  
+*— Coldplay*
+
+> "Every little thing is gonna be alright."  
+*— Bob Marley*
